@@ -331,6 +331,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O_7UqxvdKWhAR4AMd5KH-2" value="&lt;span style=&quot;color: rgb(214, 214, 221); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 13px; text-align: left; background-color: rgb(24, 24, 24);&quot;&gt;Cursor 快&lt;/span&gt;&lt;span style=&quot;color: rgb(214, 214, 221); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 13px; text-align: left; background-color: rgb(24, 24, 24);&quot;&gt;捷键&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
